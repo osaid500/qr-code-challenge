@@ -20,7 +20,7 @@ My first, boring Frontend Mentor challenge
 
 ### Screenshot
 
-![](./images/screenshot.png.jpg)
+![]("https://raw.githubusercontent.com/osaid500/qr-code-challenge/main/images/screenshot.png")
 
 ### Links
 
